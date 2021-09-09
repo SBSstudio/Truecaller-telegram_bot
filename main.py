@@ -8,7 +8,7 @@ T=0
 S=0
 # S,T are flags to know where the input number should go 
 
-api='Your Api key here'
+api='1903870757:AAEc-sSzJYPEjLyC6xq3LJ_-oh5TpR25v_I'
 
 list1='/truecaller - contact info\n/smsbomber - multiple sms spam\n/anime - latest anime episodes\n/sourcecode - Bot SourceCode\n'
 
